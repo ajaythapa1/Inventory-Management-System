@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Practices\\TestIMS\\IMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D349E41-8288-4395-A867-EBE77286B1A4}|IMS.Infrastructure\\IMS.Infrastructure.csproj|d:\\dot net practices\\testims\\ims\\ims.infrastructure\\imsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D349E41-8288-4395-A867-EBE77286B1A4}|IMS.Infrastructure\\IMS.Infrastructure.csproj|solutionrelative:ims.infrastructure\\imsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AD8E82-B194-46D7-95D3-816F080CF328}|IMS.Models\\IMS.Models.csproj|d:\\dot net practices\\testims\\ims\\ims.models\\viewmodels\\customreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AD8E82-B194-46D7-95D3-816F080CF328}|IMS.Models\\IMS.Models.csproj|solutionrelative:ims.models\\viewmodels\\customreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\dot net practices\\testims\\ims\\ims.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMSDbContext.cs",
+              "DocumentMoniker": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.Infrastructure\\IMSDbContext.cs",
+              "RelativeDocumentMoniker": "IMS.Infrastructure\\IMSDbContext.cs",
+              "ToolTip": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.Infrastructure\\IMSDbContext.cs",
+              "RelativeToolTip": "IMS.Infrastructure\\IMSDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAxwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:19:15.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomReportViewModel.cs",
+              "DocumentMoniker": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.Models\\ViewModels\\CustomReportViewModel.cs",
+              "RelativeDocumentMoniker": "IMS.Models\\ViewModels\\CustomReportViewModel.cs",
+              "ToolTip": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.Models\\ViewModels\\CustomReportViewModel.cs",
+              "RelativeToolTip": "IMS.Models\\ViewModels\\CustomReportViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:15:57.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\Program.cs",
+              "RelativeDocumentMoniker": "IMS.web\\Program.cs",
+              "ToolTip": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\Program.cs",
+              "RelativeToolTip": "IMS.web\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:47:59.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

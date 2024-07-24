@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IMS.web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IMS.web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\249a515d-40c1-437f-b528-a3ddba504c91_img2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\249a515d-40c1-437f-b528-a3ddba504c91_img2.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\269ba49c-a36a-49a3-b665-4811eb4c31c3_fish.png",
+      "PackagePath": "staticwebassets\\ProductImage\\269ba49c-a36a-49a3-b665-4811eb4c31c3_fish.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\535bc7ed-d78a-4848-b218-49c008597a47_img1.png",
+      "PackagePath": "staticwebassets\\ProductImage\\535bc7ed-d78a-4848-b218-49c008597a47_img1.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\59a7a09a-9258-41c9-9700-23bddca0f9b6_fruirs3.png",
+      "PackagePath": "staticwebassets\\ProductImage\\59a7a09a-9258-41c9-9700-23bddca0f9b6_fruirs3.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\602629be-210e-493d-b40a-bc1206b2a5e0_fruits4.png",
+      "PackagePath": "staticwebassets\\ProductImage\\602629be-210e-493d-b40a-bc1206b2a5e0_fruits4.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\7270b6d0-a8ab-4970-b71f-5dff1ee77cc6_tomato.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\7270b6d0-a8ab-4970-b71f-5dff1ee77cc6_tomato.jpeg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\8ff73040-6e89-4b2e-bc75-61d1169f8f4a_fruits4.png",
+      "PackagePath": "staticwebassets\\ProductImage\\8ff73040-6e89-4b2e-bc75-61d1169f8f4a_fruits4.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\9c3fead7-2ce5-4576-89fb-b8bb12b68a25_img2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\9c3fead7-2ce5-4576-89fb-b8bb12b68a25_img2.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\9e12469a-abf7-47c3-baff-96faba9f8b28_orange.png",
+      "PackagePath": "staticwebassets\\ProductImage\\9e12469a-abf7-47c3-baff-96faba9f8b28_orange.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\c0475948-ef78-491e-908a-a2273daeff6c_img2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\c0475948-ef78-491e-908a-a2273daeff6c_img2.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\c45fcdd1-f4a1-4fe3-9165-786ecbcae8d4_img2.png",
+      "PackagePath": "staticwebassets\\ProductImage\\c45fcdd1-f4a1-4fe3-9165-786ecbcae8d4_img2.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProductImage\\f3328dd9-cb5a-43ce-9335-707a4501715e_fish.png",
+      "PackagePath": "staticwebassets\\ProductImage\\f3328dd9-cb5a-43ce-9335-707a4501715e_fish.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProfileImage\\15b87b3f-d040-48ae-a86c-86ec58a7ef09_ims1.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\15b87b3f-d040-48ae-a86c-86ec58a7ef09_ims1.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProfileImage\\27f0e5bd-c6c0-4af7-9031-d0305254af97_tomato.jpeg",
+      "PackagePath": "staticwebassets\\ProfileImage\\27f0e5bd-c6c0-4af7-9031-d0305254af97_tomato.jpeg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProfileImage\\7f6da134-c587-4030-a791-cc0da5ceead2_hospitallogo1.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\7f6da134-c587-4030-a791-cc0da5ceead2_hospitallogo1.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\ProfileImage\\f7819ff3-fc43-4761-9267-8ee27764ba0b_delivery.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\f7819ff3-fc43-4761-9267-8ee27764ba0b_delivery.png"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\_1ee1e0b0-ee1c-48bd-b336-13af8328d6e4.jpeg",
+      "PackagePath": "staticwebassets\\images\\_1ee1e0b0-ee1c-48bd-b336-13af8328d6e4.jpeg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\_2a1bc4a0-930b-4cb4-875f-8188a9ff9440.jpeg",
+      "PackagePath": "staticwebassets\\images\\_2a1bc4a0-930b-4cb4-875f-8188a9ff9440.jpeg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\_577f18b2-41e0-4eb2-8e9f-89419c23cd4c.jpeg",
+      "PackagePath": "staticwebassets\\images\\_577f18b2-41e0-4eb2-8e9f-89419c23cd4c.jpeg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\ims1.jpg",
+      "PackagePath": "staticwebassets\\images\\ims1.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\ims2.jpg",
+      "PackagePath": "staticwebassets\\images\\ims2.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\photo.jpg",
+      "PackagePath": "staticwebassets\\images\\photo.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\test1.jpg",
+      "PackagePath": "staticwebassets\\images\\test1.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\test2.jpg",
+      "PackagePath": "staticwebassets\\images\\test2.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\user.jpg"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Dot Net Practices\\TestIMS\\IMS\\IMS.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IMS.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.IMS.web.props",
+      "PackagePath": "build\\IMS.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.IMS.web.props",
+      "PackagePath": "buildMultiTargeting\\IMS.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.IMS.web.props",
+      "PackagePath": "buildTransitive\\IMS.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
